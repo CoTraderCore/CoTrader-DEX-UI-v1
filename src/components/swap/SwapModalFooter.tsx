@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { Trade, TradeType } from 'cotrader-dex-sdk-v1'
 import React, { useMemo, useState } from 'react'
 import { Text, Button } from '@pancakeswap-libs/uikit'
 import { Repeat } from 'react-feather'

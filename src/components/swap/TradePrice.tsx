@@ -1,5 +1,5 @@
 import React from 'react'
-import { Price } from '@pancakeswap-libs/sdk'
+import { Price } from 'cotrader-dex-sdk-v1'
 import { SyncAltIcon, Text } from '@pancakeswap-libs/uikit'
 import { StyledBalanceMaxMini } from './styleds'
 

@@ -1,6 +1,6 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@pancakeswap-libs/sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from 'cotrader-dex-sdk-v1'
 
-export const ROUTER_ADDRESS = '0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F'
+export const ROUTER_ADDRESS = '0x82d45a1cCaBE624eEB275B9d3DAA177aFf82953f'
 
 // a list of tokens by chain
 type ChainTokenList = {

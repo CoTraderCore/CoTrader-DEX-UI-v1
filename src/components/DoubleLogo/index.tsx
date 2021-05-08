@@ -1,4 +1,4 @@
-import { Currency } from '@pancakeswap-libs/sdk'
+import { Currency } from 'cotrader-dex-sdk-v1'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'

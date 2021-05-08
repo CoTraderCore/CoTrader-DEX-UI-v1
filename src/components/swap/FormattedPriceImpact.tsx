@@ -1,4 +1,4 @@
-import { Percent } from '@pancakeswap-libs/sdk'
+import { Percent } from 'cotrader-dex-sdk-v1'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

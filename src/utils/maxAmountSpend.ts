@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@pancakeswap-libs/sdk'
+import { CurrencyAmount, ETHER, JSBI } from 'cotrader-dex-sdk-v1'
 import { MIN_ETH } from '../constants'
 
 /**

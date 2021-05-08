@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from '@pancakeswap-libs/sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from 'cotrader-dex-sdk-v1'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

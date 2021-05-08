@@ -1,4 +1,4 @@
-import { Trade } from '@pancakeswap-libs/sdk'
+import { Trade } from 'cotrader-dex-sdk-v1'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex, Text } from '@pancakeswap-libs/uikit'

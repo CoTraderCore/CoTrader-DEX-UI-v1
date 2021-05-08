@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@pancakeswap-libs/sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'cotrader-dex-sdk-v1'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

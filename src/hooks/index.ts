@@ -1,5 +1,5 @@
 import { Web3Provider } from '@ethersproject/providers'
-import { ChainId } from '@pancakeswap-libs/sdk'
+import { ChainId } from 'cotrader-dex-sdk-v1'
 import { connectorLocalStorageKey } from '@pancakeswap-libs/uikit'
 import { useWeb3React as useWeb3ReactCore } from '@web3-react/core'
 // eslint-disable-next-line import/no-unresolved

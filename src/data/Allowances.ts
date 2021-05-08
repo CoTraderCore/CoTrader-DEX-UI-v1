@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@pancakeswap-libs/sdk'
+import { Token, TokenAmount } from 'cotrader-dex-sdk-v1'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'
